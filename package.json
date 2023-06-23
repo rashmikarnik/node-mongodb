@@ -10,6 +10,6 @@
   "author": "Rashmi Karnik",
   "license": "ISC",
   "dependencies": {
-    "mongodb": "^3.4.1"
+    "mongodb": "^3.7.4"
   }
 }
